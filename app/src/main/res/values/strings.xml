@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">12.2.MultiThreaded</string>
+    <string name="flipCoin">Flip the Coin</string>
+</resources>
